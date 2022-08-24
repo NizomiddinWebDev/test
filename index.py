@@ -8,3 +8,9 @@ def print_name(say):
     
 
 print_name("qaleysan bola")
+
+def new_say(say):
+    print(say,"hi")
+    
+
+new_say("nima")
